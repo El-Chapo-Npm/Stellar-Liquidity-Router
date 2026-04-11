@@ -1,4 +1,4 @@
-# LiquiFact Contracts
+# Stellar Liquidity ROuter
 
 Soroban smart contracts for **LiquiFact** — the global invoice liquidity network on Stellar. This repo contains the **escrow** contract that holds investor funds for tokenized invoices until settlement.
 
